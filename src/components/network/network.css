@@ -1,0 +1,36 @@
+h3 {
+  color: #999;
+}
+
+.column {
+  width: 50%;
+  float: left;
+  padding: 2%;
+  box-sizing: border-box;
+}
+
+.network_info ul{
+  list-style: none;
+  padding: 0;
+}
+
+.network_info li {
+  padding: 5px;
+  background: #f5f5f5;
+  margin-bottom: 5px;
+  border-radius: 5px;
+}
+
+.network_info li span {
+  display: block;
+}
+
+.transaction input {
+  width: 100%;
+  padding: 5px;
+  border-radius: 5px;
+  border: none;
+  background: #f5f5f5;
+  box-sizing: border-box;
+  margin-bottom: 5px;
+}

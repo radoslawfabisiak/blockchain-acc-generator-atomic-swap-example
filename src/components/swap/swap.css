@@ -1,0 +1,10 @@
+#networks {
+  display: block;
+}
+.clearfix {
+  clear: both;
+}
+
+.info {
+  text-align: center;
+}
